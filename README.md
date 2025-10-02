@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a seasoned technology leader and software engineer based in Bangalore, India, with extensive experience in building scalable systems and leading technical teams. Currently working at **Atlassian**, I have a passion for AI, data science, and enterprise technology solutions.
+I'm a seasoned technology leader and software engineer based in Bangalore, India, with extensive experience in building scalable systems and leading technical teams. Currently working at **Atlassian**, I have a passion for AI, distributed systems architecture @ scale, and enterprise technology solutions.
 
 ## 🚀 Professional Journey
 
@@ -10,13 +10,6 @@ I'm a seasoned technology leader and software engineer based in Bangalore, India
 - **Technical Leadership** at Atlassian
 - **2K+ followers** and **500+ connections** on LinkedIn
 - Based in **Bangalore Urban, Karnataka, India**
-
-### Key Achievements
-- **Technical Director, Services** at Backbase (Previous role)
-- **Master of Data Science (Global)** from Deakin University
-- **B.M.S. College of Engineering** graduate
-- **Speaker** at CTOtalk Chennai and Ford Business Solutions
-- **Opened Google office in Bengaluru** alongside ISRO Chairman Dr. V. Narayanan
 
 ## 🛠️ Technical Expertise
 
@@ -44,17 +37,8 @@ I'm passionate about:
 - **Data Science**: Leveraging data for business insights and decision making
 
 ## 📚 Education & Certifications
-
-- **Master of Data Science (Global)** - Deakin University
 - **Bachelor's Degree** - B.M.S. College of Engineering (1999-2003)
-- **Previous Education** - 1996-1998
 
-## 🎤 Speaking & Thought Leadership
-
-- **CTOtalk Chennai** - Technical speaking engagements
-- **Ford Business Solutions** - Scaling Gen AI adoption in Enterprise
-- **Google Office Opening** - Bengaluru, alongside ISRO leadership
-- **LinkedIn Content** - Sharing insights on technology and engineering
 
 ## 🌟 What I'm Working On
 
