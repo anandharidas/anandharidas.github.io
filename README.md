@@ -73,7 +73,7 @@ I believe in continuous learning and staying at the forefront of technology whil
 
 ---
 
-*"Still smiling after every challenge! Grateful for all the learning, growth, and memories made in the tech world!"* 😊
+*"ज़िन्दगी बड़ी होनी चाहिए, लंबी नहीं।”* 😊
 
 ---
 
